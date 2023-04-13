@@ -1,7 +1,6 @@
 name: Publish pgvector to Docker
 on: 
   push:
-  
 jobs:
   build-and-push:
     runs-on: ubuntu-latest
